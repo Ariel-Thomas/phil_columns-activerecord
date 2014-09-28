@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jason@lookforwardenterprises.com"]
   spec.summary       = %q{Phil_columns adapter for activerecord.}
   spec.description   = %q{Phil_columns adapter for activerecord.  See README for more details.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/midas/phil_columns-activerecord"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
