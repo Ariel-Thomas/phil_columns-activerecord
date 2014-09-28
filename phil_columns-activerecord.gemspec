@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = PhilColumns::Activerecord::VERSION
   spec.authors       = ["C. Jason Harrelson (midas)"]
   spec.email         = ["jason@lookforwardenterprises.com"]
-  spec.summary       = %q{Adapter for activerecord.}
-  spec.description   = %q{Adapter for activerecord.  See README for more details.}
+  spec.summary       = %q{Phil_columns adapter for activerecord.}
+  spec.description   = %q{Phil_columns adapter for activerecord.  See README for more details.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

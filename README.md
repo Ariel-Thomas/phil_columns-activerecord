@@ -1,6 +1,7 @@
 # PhilColumns::Activerecord
 
-TODO: Write a gem description
+Phil_columns adapter for activerecord.
+
 
 ## Installation
 
@@ -16,14 +17,7 @@ Or install it yourself as:
 
     $ gem install phil_columns-activerecord
 
+
 ## Usage
 
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( http://github.com/<my-github-username>/phil_columns-activerecord/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+See [phil_columns](https://github.com/midas/phil_columns) gem.
