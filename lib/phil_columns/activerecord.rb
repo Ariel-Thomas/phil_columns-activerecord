@@ -1,4 +1,5 @@
 require "phil_columns/activerecord/version"
+require "phil_columns"
 require "active_record"
 
 module PhilColumns
