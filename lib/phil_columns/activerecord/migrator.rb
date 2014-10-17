@@ -19,6 +19,8 @@ module PhilColumns
       end
 
       def clear_migrations_table
+        return unless ActiveRecord::Base.connection.table_exists?( schema_migrations_table_name )
+
         case connection_config[:adapter]
           when 'sqlite', 'sqlite3'
             connection.execute("DELETE FROM #{table_name}")
